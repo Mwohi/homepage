@@ -5,3 +5,17 @@
 
 - JavaScript (Logik)
   - React <-
+
+
+  Befehle:
+
+  Terminal öffnen "Menü / Terminal / New Terminal"
+
+  live-server
+
+  Projekt zu github schicken:
+
+  git add .
+  git commit -m "bild hinzugefügt"
+
+  git push 

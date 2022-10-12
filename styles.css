@@ -1,6 +1,8 @@
 body {
-    background-color: #6ffc03 ;
-    color: black;
+        width: 100%;
+        text-align: center;
+        font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 
 }
