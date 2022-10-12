@@ -1,0 +1,7 @@
+- HTML
+- CSS (Styling)
+  - Flex Layout
+  - Grid Layout
+
+- JavaScript (Logik)
+  - React <-
