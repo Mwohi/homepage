@@ -2,6 +2,7 @@
 - CSS (Styling)
   - Flex Layout
   - Grid Layout
+  - Handy anderes Aussehen als auf Computer: "Responsive design"
 
 - JavaScript (Logik)
   - React <-
@@ -15,9 +16,14 @@
 
   Projekt zu github schicken:
 
+  Homepage Projekt
+
+  1.) Git Bash öffnen
+
+  cd ~/homepage
+
   git add .
   git commit -m "bild hinzugefügt"
-
   git push 
 
 

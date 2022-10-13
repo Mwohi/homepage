@@ -18,3 +18,20 @@ h2 {
 }
 .praktikom{background-color:  #ff00ff;}
 .kenntnisse{background-color:  #ff0055;}
+
+.profile-image {
+    width: 40%
+}
+
+@media screen and (max-width:720px) {
+    .profile-image {
+        width: 60%
+    }
+}
+
+
+@media screen and (max-width:500px) {
+    .profile-image {
+        width: 100%
+    }
+}
