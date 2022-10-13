@@ -2,7 +2,19 @@ body {
         width: 100%;
         text-align: center;
         font-size: 30px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    background-color: #FFFF00;
+}
+
+h2 {
+    background-color: #00ff62;
+}
+
+.bildung {
+    background-color: #00f7ff;
+}
+.praktikom{background-color:  #ff00ff;}
+.kenntnisse{background-color:  #ff0055;}
